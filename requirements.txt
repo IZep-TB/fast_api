@@ -1,0 +1,7 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+sqlalchemy==1.4.31
+psycopg2-binary==2.9.1   # PostgreSQL database adapter
+passlib==1.7.4           # Password hashing library
+python-dotenv==0.19.1    # Library for loading environment variables from .env file
+PyJWT==2.3.0
